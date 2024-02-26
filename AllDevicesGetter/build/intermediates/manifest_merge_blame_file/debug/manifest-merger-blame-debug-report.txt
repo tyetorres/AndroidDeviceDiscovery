@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.masterplayert.alldevicesgetter" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="32" />
+7-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:4:5-67
+9-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:4:22-64
+10    <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" />
+10-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:5:5-78
+10-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:5:22-75
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:6:5-79
+11-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:7:5-75
+12-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:7:22-73
+13    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+13-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:8:5-78
+13-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+14-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:9:5-85
+14-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:9:22-83
+15    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+15-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:10:5-75
+15-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:10:22-73
+16    <uses-permission android:name="android.permission.GLOBAL_SEARCH" />
+16-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:11:5-71
+16-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:11:22-69
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:13:5-79
+17-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:13:22-77
+18    <uses-permission android:name="android.permission.BIND_PRINT_SERVICE" />
+18-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:15:5-76
+18-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:15:22-74
+19    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+19-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:16:5-79
+19-->C:\Users\Maste\AndroidStudioProjects\AllNetworkDevicesGetter\AllDevicesGetter\src\main\AndroidManifest.xml:16:22-77
+20
+21</manifest>
